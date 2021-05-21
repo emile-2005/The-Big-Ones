@@ -345,3 +345,82 @@ footer li {
     transform: translate(-50%,-50%);
     z-index: -1;
 }
+
+/* ----------troisième page HTML bots fin---------------------------------------------------------------------------------- */
+
+/* ----------quatrième page HTML roles début-------------------------------------------------------------------------------- */
+
+.explication-page {
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: rgb(34, 34, 41);
+    height: 15em;
+}
+
+.hierarchie {
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: rgb(34, 34, 41);
+    height: 60em;
+}
+
+.hierarchie-role {
+    background-color: rgb(33, 33, 51);
+    border: 1px solid rgb(255, 174, 0);
+    width: 700px;
+    height: 200px;
+}
+
+.hierarchie-roles-container {
+    position: relative;
+    top: 100px;
+    left: 200px;
+}
+
+.other-roles {
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: rgb(34, 34, 41);
+    height: 60em;
+    margin-bottom: 50px;
+}
+
+.roles-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    width: 800px;
+    position: relative;
+    top: 100px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+ .roles-container div {
+     background-color: rgb(33, 33, 51);
+     border: 1px solid rgb(255, 166, 0);
+     width: 250px;
+     height: 200px;
+     border-radius: 15px;
+     margin: 5px;
+     padding: 30px;
+}
+
+.role-title {
+    text-align: center;
+}
+
+.role-text {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+/* ----------quatrième page HTML roles fin---------------------------------------------------------------------------------- */
