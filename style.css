@@ -7,6 +7,7 @@
 
 body {
     background-color: rgb(27, 27, 32);
+    overflow-y: scroll;
 }
 
 /* ----------première page HTML début---------------------------------------------------------------------------- */
@@ -329,4 +330,18 @@ footer li {
     left: 50%;
     top: 60px;
     transform: translateX(-50%);
+}
+
+/* ----------deuxième page HTML rules fin---------------------------------------------------------------------------------- */
+
+/* ----------troisième page HTML Bots début-------------------------------------------------------------------------------- */
+
+.error-img {
+    width: 1500px;
+    opacity: 0.3;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: -1;
 }
