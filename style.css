@@ -417,3 +417,23 @@ footer li {
 }
 
 /* ----------quatrième page HTML roles fin---------------------------------------------------------------------------------- */
+
+/* ----------cinquième page HTML channel début---------------------------------------------------------------------------------- */
+
+.channels {
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 30px;
+    background-color: rgb(34, 34, 41);
+}
+
+.channels-container div {
+    margin-bottom: 50px;
+}
+
+
+
+
+/* ----------cinquième page HTML channel fin---------------------------------------------------------------------------------- */
+
+
