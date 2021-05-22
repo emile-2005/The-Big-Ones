@@ -369,6 +369,7 @@ footer li {
     border: 1px solid rgb(255, 174, 0);
     width: 700px;
     height: 200px;
+    padding: 20px;
 }
 
 .hierarchie-roles-container {
@@ -414,13 +415,5 @@ footer li {
     text-align: center;
     font-size: 25px;
 }
-
-
-
-
-
-
-
-
 
 /* ----------quatrième page HTML roles fin---------------------------------------------------------------------------------- */
