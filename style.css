@@ -436,4 +436,30 @@ footer li {
 
 /* ----------cinquième page HTML channel fin---------------------------------------------------------------------------------- */
 
+/* ----------sixième page HTML admin début---------------------------------------------------------------------------------- */
 
+.admin-info {
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 30px;
+    background-color: rgb(34, 34, 41);
+    height: 400px;
+}
+
+.admin-actif {
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 30px;
+    background-color: rgb(34, 34, 41);
+    height: 770px;
+}
+
+.admin-actif img {
+    width: 900px;
+    position: relative;
+    top: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+/* ----------sixième page HTML admin fin---------------------------------------------------------------------------------- */
